@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-[![Windows-Terminal-pgo-Ej-Kj-P7x.png](https://i.postimg.cc/Dzy4nyfG/Windows-Terminal-pgo-Ej-Kj-P7x.png)](https://postimg.cc/qNSvGr3B)
+[![EzDNS Banner](/assets/logo/EzDNS_Banner.png)](/assets/logo/EzDNS_Banner.png)
 
 </div>
 
@@ -33,7 +33,7 @@ But not now, EzDNS makes it easy to do all this. Just 2 steps! And Voila! You're
 
 ## 🧩 Screenshot
 
-[![Windows-Terminal-vr-Kpvt-Of-BH.png](https://i.postimg.cc/Z56m51Kx/Windows-Terminal-vr-Kpvt-Of-BH.png)](https://postimg.cc/gxcQMthx)
+[![Windows-Terminal-vr-Kpvt-Of-BH.png](/assets/screenshots/Windows-Terminal-vr-Kpvt-Of-BH.png)](/assets/screenshots/Windows-Terminal-vr-Kpvt-Of-BH.png)
 
 ## 💡 Usage
 
@@ -61,7 +61,7 @@ You can download the file from releases. To run the script:
 - click `run with powershell`
 
 
-If you have Issues, create an [issue]().
+If you have Issues, create an [issue](https://github.com/shrigiri81/EzDNS/issues/new/choose).
 
 ## 💖 Support
 
