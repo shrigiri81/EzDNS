@@ -1,0 +1,31 @@
+EEEEEEEEEEEEEEEEEEEEEE ZZZZZZZZZZZZZZZZZZZZZZ DDDDDDDDDDDDDDD       NNNNNNNN        NNNNNNNN  SSSSSSSSSSSSSSS 
+E::::::::::::::::::::E Z:::::::::::::::::::::Z D:::::::::::::::DD   N:::::::N       N::::::N S:::::::::::::::S
+E::::::::::::::::::::E Z:::::::::::::::::::::Z D:::::::::::::::::D  N::::::::N      N::::::N S:::::::::::::::S
+EE::::::EEEEEEEEE::::E ZZZZZZZZZZZZZZZZ::::::Z DD:::::DDDDD:::::DD  N:::::::::N     N::::::N S:::::SSSSSS:::::S
+  E:::::E       EEEEEE                 ZZZZZZZ  D:::::D    D:::::D  N::::::::::N    N::::::N S:::::S     SSSSSS
+  E:::::E                            Z:::::Z    D:::::D     D:::::D N:::::::::::N   N::::::N S:::::S            
+  E::::::EEEEEEEEEE                Z:::::Z      D:::::D     D:::::D N:::::::N::::N  N::::::N S::::::SSSSSSS     
+  E:::::::::::::::E              Z:::::Z        D:::::D     D:::::D N::::::N N::::N N::::::N S:::::::::::::SS  
+  E:::::::::::::::E            Z:::::Z          D:::::D     D:::::D N::::::N  N::::N:::::::N  SSS::::::::::::S 
+  E::::::EEEEEEEEEE          Z:::::Z            D:::::D     D:::::D N::::::N   N:::::::::::N      SSSSSSS::::S  
+  E:::::E                  Z:::::Z              D:::::D     D:::::D N::::::N    N::::::::::N            S:::::S 
+  E:::::E       EEEEEE   Z:::::Z                D:::::D    D::::::D N::::::N     N:::::::::N SSSSSSS     S:::::S
+EE::::::EEEEEEEE:::::E ZZ::::::ZZZZZZZZZZZZZZZ DD:::::DDDDD:::::DD  N::::::N      N:::::::::N S:::::SSSSSS:::::S
+E::::::::::::::::::::E Z:::::::::::::::::::::Z D:::::::::::::::::D  N::::::N       N::::::::N S:::::::::::::::SS
+E::::::::::::::::::::E Z:::::::::::::::::::::Z D:::::::::::::::DD   N::::::N        N:::::::N S:::::::::::::::S 
+EEEEEEEEEEEEEEEEEEEEEE ZZZZZZZZZZZZZZZZZZZZZZ DDDDDDDDDDDDDDD       NNNNNNNN         NNNNNNNN SSSSSSSSSSSSSSS  
+
+EEEEEEEEEEEEE ZZZZZZZZZZZZ DDDDDDDDDD   NNNNNN    NNNNNN  SSSSSSSSSS
+E:::::::::::E Z::::::::::Z D::::::::DD  N:::::N   N::::N S:::::::::S
+EE::::EEE:::E ZZZZZZ:::::Z D:::::D:::D  N::::::N  N::::N S::::SSSSSS
+  E:::E            Z::::Z   D::::D  D:D N:::::::N N::::N S::::S     
+  E:::EEEEEE      Z::::Z    D::::D   D:D N:::N::::NN:::N S:::::SSSS 
+  E:::EEEEEE     Z::::Z     D::::D   D:D N:::NN::::::::N  SS:::::::S
+  E:::E         Z::::Z      D::::D   D:D N::::N::::::::N     SSS:::S
+  E:::E        Z::::Z       D::::D  D:D  N::::NN:::::::N SS     S::S
+EE::::EEE:::E Z::::::ZZZZZ D:::::DD::D   N::::N N::::::N S::SSSS::S 
+E:::::::::::E Z::::::::::Z D::::::::D    N::::N  N:::::N S:::::::::S
+EEEEEEEEEEEEE ZZZZZZZZZZZZ DDDDDDDDDD    NNNNNN   NNNNNN SSSSSSSSSS
+
+
+

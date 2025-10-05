@@ -1,0 +1,18 @@
+$Adguard = @{
+    # Legacy Resolvers
+    primary = "";
+    alternative = "";
+    primary6 = "";
+    alternative6 = "";
+
+    # Secure Resovlers (To be implemented)
+}
+
+1 { "Google" }
+2 { "Mullvad" }
+3 { "Quad9" }
+4 { "Cloudflare" }
+5 { "Adguard" }
+6 { "ControlD" }
+7 { "DNS0.eu" }
+8 { "Windows Default/Automatic DNS" }
