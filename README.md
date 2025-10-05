@@ -5,11 +5,8 @@
 </div>
 
 ![GitHub Release](https://img.shields.io/github/v/release/shrigiri81/EzDNS?style=for-the-badge)
-
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/shrigiri81/EzDNS/total?style=for-the-badge)
-
 ![Static Badge](https://img.shields.io/badge/-%40shrigiri81-white?style=for-the-badge&logo=x&label=Follow&labelColor=black&color=grey&link=https%3A%2F%2Fx.com%2Fshrigiri81)
-
 ![Static Badge](https://img.shields.io/badge/Join-Build_Bytes-white?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=blue&color=87CEEB&link=https%3A%2F%2Ft.me%2Fbuildbytes)
 
 
