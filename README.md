@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-[![EzDNS Banner](/assets/logo/EzDNS_Banner.png)](/assets/logo/EzDNS_Banner.png)
+[![EzDNS Banner](https://raw.githubusercontent.com/shrigiri81/EzDNS/refs/heads/main/assets/logo/EzDNS_Banner.png)](https://raw.githubusercontent.com/shrigiri81/EzDNS/refs/heads/main/assets/logo/EzDNS_Banner.png)
 
 </div>
 
