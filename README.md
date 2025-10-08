@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-[![EzDNS Banner](https://raw.githubusercontent.com/shrigiri81/EzDNS/refs/heads/main/assets/logo/EzDNS_Banner.png)](https://raw.githubusercontent.com/shrigiri81/EzDNS/refs/heads/main/assets/logo/EzDNS_Banner.png)
+![EzDNS Banner](https://raw.githubusercontent.com/shrigiri81/EzDNS/refs/heads/main/assets/logo/EzDNS_Banner.png)
 
 </div>
 
@@ -33,7 +33,7 @@ But not now, EzDNS makes it easy to do all this. Just 2 steps! And Voila! You're
 
 ## 🧩 Screenshot
 
-[![Windows-Terminal-vr-Kpvt-Of-BH.png](/assets/screenshots/Windows-Terminal-vr-Kpvt-Of-BH.png)](/assets/screenshots/Windows-Terminal-vr-Kpvt-Of-BH.png)
+![Windows-Terminal-vr-Kpvt-Of-BH.png](https://raw.githubusercontent.com/shrigiri81/EzDNS/refs/heads/main/assets/screenshots/Windows-Terminal-vr-Kpvt-Of-BH.png)
 
 ## 💡 Usage
 
