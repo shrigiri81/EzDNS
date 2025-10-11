@@ -51,7 +51,7 @@ EzDNS must be run in Admin mode as changing DNS is a system-wide operation. To a
 
 ### Launch Command
 ```ps1
-irm "https://github.com/shrigiri81/EzDNS/releases/latest/download/EzDNS.ps1" | iex
+irm "https://ezdns.vercel.app/download" | iex
 ```
 
 ### OR
