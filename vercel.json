@@ -4,7 +4,7 @@
       "source": "/download",
       "destination": "https://github.com/shrigiri81/EzDNS/releases/latest/download/EzDNS.ps1",
       "permanent": false
-    }
+    },
     {
       "source": "/",
       "destination": "https://github.com/shrigiri81/EzDNS/",
